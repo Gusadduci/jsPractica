@@ -7,13 +7,13 @@ function setTitle(text){
 function setDescription(text){
   return description.innerHTML = text;
 };
-function teAmoMucho(text){
-  return title.innerHTML = "Amore mio sos todo en mi vida te quiero para siempre";
+function teCorrijo(text){
+  return title.innerHTML = "vamos a corregir el tp";
 };
 
-setTitle("hola amor, te amo con mi vida");
+setTitle("hola señor, como esta ?");
 
-setDescription("todo el dia estudiando para estar con mi amada.");
+setDescription("hola tucu corregime porfa !.");
 
-title.addEventListener("click", teAmoMucho)
+title.addEventListener("click", teCorrijoW)
 
