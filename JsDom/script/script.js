@@ -15,5 +15,5 @@ setTitle("hola señor, como esta ?");
 
 setDescription("hola tucu corregime porfa !.");
 
-title.addEventListener("click", teCorrijoW)
+title.addEventListener("click", teCorrijo)
 
